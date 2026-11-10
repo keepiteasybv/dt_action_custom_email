@@ -1,4 +1,4 @@
-# Dynatrace Filtered Email for Workflows
+# Filtered Email for Dynatrace Workflows
 
 Send email from Dynatrace Workflows while controlling which recipient domains are allowed.
 
@@ -6,7 +6,7 @@ Send email from Dynatrace Workflows while controlling which recipient domains ar
 >
 > **Status:** First stable release; independent non-production tenant validation is still recommended.
 
-**Filtered Email for Workflows** evaluates every resolved recipient against centrally managed allow and deny domain policies before submitting an email to the Dynatrace Email service.
+**Filtered Email for Dynatrace Workflows** evaluates every resolved recipient against centrally managed allow and deny domain policies before submitting an email to the Dynatrace Email service.
 
 ![Send filtered email workflow action](assets/screenshots/filtered-email-workflow-action.png)
 
