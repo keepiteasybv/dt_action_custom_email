@@ -2,9 +2,9 @@
 
 Send email from Dynatrace Workflows while controlling which recipient domains are allowed.
 
-> **Current prototype version:** `0.4.5`
+> **Current version:** `1.0.0`
 >
-> **Status:** Experimental release candidate seeking non-production tenant testing.
+> **Status:** First stable release; independent non-production tenant validation is still recommended.
 
 **Filtered Email for Workflows** evaluates every resolved recipient against centrally managed allow and deny domain policies before submitting an email to the Dynatrace Email service.
 
